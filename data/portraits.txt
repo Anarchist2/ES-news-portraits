@@ -9,7 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 
-# Human ~music~ news
+# Human news
 news "human merchant anywhere"
 	portrait
 		portrait/human02
@@ -672,6 +672,13 @@ news "reformed pirate in Hai space"
 		portrait/human121
 		portrait/human124
 		portrait/human126
+
+
+
+news "remnant security advisory"
+	portrait
+		portrait/loudspeaker1
+
 
 
 
