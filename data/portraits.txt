@@ -681,32 +681,60 @@ news "remnant security advisory"
 
 
 
+news "graffiti on spaceport wall"
+	portrait
+
+
+
 
 # Korath news
 news "kor efret merchant"
 	portrait
 		portrait/korath00
+		portrait/korath01
+		portrait/korath02
+		portrait/korath03
 
 
 
 news "kor efret worker"
 	portrait
 		portrait/korath00
+		portrait/korath01
+		portrait/korath02
+		portrait/korath03
 
 
 
 news "kor efret local"
 	portrait
 		portrait/korath00
+		portrait/korath01
+		portrait/korath02
+		portrait/korath03
 
 
 
 news "kor efret scientist"
 	portrait
 		portrait/korath00
+		portrait/korath01
+		portrait/korath02
+		portrait/korath03
 
 
 
 news "kor efret station friendly"
 	portrait
 		portrait/korath00
+		portrait/korath01
+		portrait/korath02
+		portrait/korath03
+
+
+
+
+# Wanderer news
+news "wanderer at kor efret spaceport"
+	portrait
+		portrait/wanderer00
