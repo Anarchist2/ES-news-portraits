@@ -546,6 +546,13 @@ news "human farming in pirate space"
 
 
 
+news "graffiti on spaceport wall"
+	portrait
+		portrait/graffiti00
+		portrait/graffiti01
+
+
+
 # Hai space news
 news "food in Hai space"
 	portrait
