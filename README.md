@@ -1,3 +1,4 @@
+NOTICE: This plugin is currently not being developed, and as such, is not up to date with the latest version of Endless Sky. If you want to bring this plugin up to date, feel free to make a PR.
 # Portraits for News in Endless Sky
 This plugin re-activates the portrait system for news in ES. All the images for portraits are already in the game, but became unused after portraits for news was disabled by default. Alien portraits (including transhuman portraits) are not considered canon. Compatable for all news up to 0.9.13.
 ###### To install
